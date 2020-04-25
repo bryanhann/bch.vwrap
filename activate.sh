@@ -1,3 +1,3 @@
-r20.pip_install.sh virtualenv
-r20.pip_install.sh virtualenvwrapper
+r20pip_install virtualenv
+r20pip_install virtualenvwrapper
 source virtualenvwrapper.sh
